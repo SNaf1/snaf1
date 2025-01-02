@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadnan Nafis</h1>
-<h3 align="center">I'm a tech enthusiast who loves diving into Python to cook up cool stuff. Currently navigating the web development scene with Django, HTML, and CSS, and also juggling game development and a bit of gaming journalism on the side. Always learning new things, and up for collaborations. 🚀🌐</h3>
+<h3 align="center">I'm a tech enthusiast who loves diving into Python to cook up cool stuff. Currently navigating the web development scene with Django, MERN, and also juggling game development and a bit of gaming journalism on the side. Always learning new things, and up for collaborations. 🚀🌐</h3>
 
 
 
