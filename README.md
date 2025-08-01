@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadnan Nafis</h1>
-<h3 align="center">I'm an aspiring Computer Science student with a passion for problem-solving, a strong foundation in Python and machine learning, and hands-on experience in web development, AI, and game development. My interests lie in Artificial Intelligence, Large Language Models (LLMs), and software automation, and I've contributed to research and collaborative projects in these areas. I'm driven by a continuous desire to learn, build, and explore new technologies that push the boundaries of what's possible.</h3>
+<h4 align="center">I'm an aspiring Computer Science student with a passion for problem-solving, a strong foundation in Python and machine learning, and hands-on experience in web development, AI, and game development. My interests lie in AI, LLMs, and software automation, and I've contributed to research and collaborative projects in these areas. I'm driven by a continuous desire to learn, build, and explore new technologies that push the boundaries of what's possible.</h4>
 
 
 
