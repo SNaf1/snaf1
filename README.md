@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadnan Nafis</h1>
 <h3 align="center">I'm a CSE graduate with a passion for problem-solving, a strong foundation in Python and machine learning, and hands-on experience in full-stack web development, AI, and game development. My interests lie in AI, LLMs, and software automation, and I've contributed to research and collaborative projects in these areas. I am driven by a continuous desire to learn, build, and explore new technologies that push the boundaries of what's possible.</h3>
 
-
-- 📝 You can find my news articles [GameRiv](https://gameriv.com/author/snaf/)
-
 - 📫 How to reach me **sadnan.ornob@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
